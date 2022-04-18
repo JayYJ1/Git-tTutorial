@@ -1,2 +1,2 @@
 # Git-tTutorial
-<font color="Green">qweqwe</font>
+<span style="color:green">qweqwe</span>
